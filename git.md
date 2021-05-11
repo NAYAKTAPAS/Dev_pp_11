@@ -5,7 +5,7 @@
 
 # In Local Git Repository
 * git add .(untrackedfile/modifiedfile => staged file)
-* git commit -m "commit massage"(put a check point on the code)
+* git commit -m "commit message"(put a check point on the code)
 
 # To add a remote
 * git remote add origin https://github.com/NAYAKTAPAS/Dev_pp_11.git
